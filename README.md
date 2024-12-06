@@ -1,5 +1,5 @@
-- # 💫 About Me:
-🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on AI and Machine Learning<br>🤝 I’m looking to help <br>🌱 I’m currently learning Generative AI use cases <br>📫 How to reach me js333saini@gmail.com
+# 💫 About Me:
+🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on AI, ML, LLM, Quantum and others <br>🤝 I’m looking to help & collborate <br>🌱 I’m currently learning Generative AI/LLM use cases <br>📫 How to reach me js333saini@gmail.com or jyoti.saini9810@gmail.com
 
 
 ## 🌐 Socials:
